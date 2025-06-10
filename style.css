@@ -1,4 +1,11 @@
+#container {
+
+
+}
+
+
 body {
-    background-color: color(from color srgb r g b);
+    background-color: black;
     color: blanchedalmond;
+    margin: 40px;
 }
