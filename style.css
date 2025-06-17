@@ -1,6 +1,7 @@
 #container {
 
     display: flexbox;
+    padding: 0rem;
 
 }
 
@@ -13,11 +14,15 @@
 }
 
 body {
-    background-color: black;
+    background-color: rgb(56, 39, 39);
     color: blanchedalmond;
     margin: 40px;
     font-family: "Roboto", sans-serif;
     
+}
+header {
+    background-color: black;
+
 }
 
 .central {
