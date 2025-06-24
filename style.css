@@ -16,12 +16,14 @@
 body {
     background-color: rgb(56, 39, 39);
     color: blanchedalmond;
-    margin: 40px;
+    margin: 0px;
     font-family: "Roboto", sans-serif;
     
 }
 header {
     background-color: black;
+    border: outset 50px pink;
+    color: blue;
 
 }
 
